@@ -1,0 +1,2 @@
+# Product truth
+NoVaY is an Android anime viewing/download application. This French-language page helps visitors understand VF/VOSTFR, offline playback and library/history, then download the official universal APK and install it. Android 7+ compatibility comes from the supplied repository README. No accounts, payments or backend additions. The preview is illustrative, not a real app screenshot. No invented ratings, usage metrics or security guarantees.
